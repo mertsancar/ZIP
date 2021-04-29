@@ -1,5 +1,7 @@
 # ZIP
 
+https://mertsancar.itch.io/zip
+
 ZIP is my first gamejam game. I completed this game within 48 hours. The aim of the
 game is to find the yellow box without room zipped you and move on to the next level. You can
 go to the link above and test my game.
